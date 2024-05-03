@@ -2,7 +2,7 @@
 <img src="https://www.forbes.com/advisor/wp-content/uploads/2022/03/build_a_website_for_free_-_article_image.jpg">
 <h3 align="center">I am a Full Stack Developer based in Ethiopia, currently pursuing my Bachelor's degree in Computer Science. I contribute to both frontend and backend development, specializing in building robust web applications.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bisre1921&label=Profile%20views&color=0e75b6&style=flat" alt="bisre1921" /> </p>
+
 
 - 🔭I’m currently enrolled in **a Computer Science program and actively contributing to the development of both frontend and backend components for web applications.**
 
